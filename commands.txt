@@ -1,0 +1,10 @@
+commands:
+mvn clean package docker:build -e -X
+
+setting up build agent
+install jdk
+install maven
+set JAVA_HOME path
+set M2_HOME path 
+install docker toolbox
+
